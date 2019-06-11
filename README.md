@@ -42,4 +42,11 @@ self.circularQueue = [[TXCircularQueue alloc]initWithCapacity:10];
 ```objc
 [self.circularQueue clear];
 ```
-
+### 反馈
+> QQ：1754748325 <br> 
+> E-mail：xtz_pioneer@163.com <br> 
+> 开发中遇到bug，希望小伙伴儿们能够及时反馈到QQ或E-mail！<br> 
+### 开发环境&支持版本
+> 开发使用最新版本Xcode，理论上支持iOS8及以上版本，如有版本适配问题，请及时反馈！多谢合作！<br> 
+### 版本&更新
+> 更新时间:2019.6.11 版本:0.1.0 更新内容:实现了入队、出队、清除队列等功能 <br>
