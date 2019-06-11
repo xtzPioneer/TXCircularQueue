@@ -1,0 +1,6 @@
+framework module Pods_TXCircularQueue_Tests {
+  umbrella header "Pods-TXCircularQueue_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

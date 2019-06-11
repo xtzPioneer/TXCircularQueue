@@ -1,0 +1,6 @@
+framework module TXCircularQueue {
+  umbrella header "TXCircularQueue-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - TXCircularQueue (0.1.0)
+
+DEPENDENCIES:
+  - TXCircularQueue (from `../`)
+
+EXTERNAL SOURCES:
+  TXCircularQueue:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TXCircularQueue: 210e85d7e7c35be198a958939e2031cb23140b6a
+
+PODFILE CHECKSUM: e74043bcaf90c2a1b40ff7d453c7da715fbcd98f
+
+COCOAPODS: 1.7.1
