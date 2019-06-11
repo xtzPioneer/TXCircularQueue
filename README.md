@@ -26,4 +26,16 @@ self.circularQueue = [TXCircularQueue circularQueueWithCapacity:10];
 ```objc
 self.circularQueue = [[TXCircularQueue alloc]initWithCapacity:10];
 ```
+#### 入队
+```objc
+[self.circularQueue enqueue:@1]
+```
+#### 出队
+```objc
+[self.circularQueue dequeue]
+```
+#### 清除队列
+```objc
+[self.circularQueue clear];
+```
 
